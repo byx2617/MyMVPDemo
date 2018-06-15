@@ -18,6 +18,6 @@ public class MainActivity extends AppCompatActivity {
     private void initView() {
 
         tv = (TextView) findViewById(R.id.tv);
-        tv.setText("");
+        tv.setText("天下都是本尊的！！");
     }
 }
